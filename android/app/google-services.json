@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973772251267",
+    "project_id": "quizlesson5",
+    "storage_bucket": "quizlesson5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973772251267:android:5a061f4cc0855c3c19fbb6",
+        "android_client_info": {
+          "package_name": "com.example.month4_lesson5_quiz_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKB91c2yRUrR1cB160yFWS3D-4LQeIjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
